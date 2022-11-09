@@ -91,7 +91,7 @@ for(int i=0; i<4; i++){
 
 //problem 4
 
-/*
+
 int x=220427;
 
 int fun(){
@@ -104,6 +104,5 @@ int main(){
     cout<<x<<" is a birth year"<<endl;
     cout<<"Product of these numbers is: "<<::x*x<<endl;
 cout<<"Calling function: "<<fun();
-}*/
-
+}
 
